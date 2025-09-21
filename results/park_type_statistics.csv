@@ -1,0 +1,6 @@
+,area_ha,area_ha,area_ha,area_ha,area_ha,area_ha,area_ha
+,count,sum,mean,median,std,min,max
+park_type,,,,,,,
+District Park,126,649.31,5.15,3.46,3.95,2.0,18.29
+Neighborhood Park,926,472.04,0.51,0.35,0.43,0.1,1.99
+Regional Park,21,48769.44,2322.35,54.37,10222.98,20.3,46933.54
