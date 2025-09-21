@@ -8,7 +8,6 @@
 
 A comprehensive geospatial analysis project evaluating the accessibility and equity of parks and green spaces in Milan, Italy. This project utilizes advanced network analysis, gravity modeling, and environmental justice frameworks to provide data-driven insights for urban planning.
 
-![Analysis Dashboard](milan_green_space_analysis_comprehensive.png)
 
 ## 📖 Overview
 
