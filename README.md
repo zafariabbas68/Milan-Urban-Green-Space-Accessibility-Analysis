@@ -99,6 +99,19 @@ Milan-Urban-Green-Space-Accessibility-Analysis/
 └── 📂 data/                              # (Optional) Local data cache
     └── (created automatically by OSMnx)
 ```
+## Interactive Map
+[View Interactive Map](results/milan_green_space_enhanced_interactive_map.html)
+
+**Map Description**: This interactive web map provides a comprehensive visualization of Milan's green space accessibility. The map includes:
+- Park locations classified by type and size
+- Park entrances for accurate accessibility analysis
+- Street network used for routing calculations
+- Population density layers showing demographic distribution
+- Service areas highlighting walking accessibility (5, 10, 15-minute walk zones)
+- Environmental justice indicators showing areas with limited green space access
+
+The map allows users to toggle different layers, zoom into specific neighborhoods, and explore the spatial relationships between green spaces and population distribution.
+
 
 ## 🛠️ Installation & Usage
 
