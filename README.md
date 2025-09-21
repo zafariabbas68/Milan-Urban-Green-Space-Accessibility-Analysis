@@ -57,11 +57,9 @@ The analysis reveals that while **98.4%** of Milan's population lives within a 1
 ### Enhanced Environmental Justice Analysis
 ![Enhanced Environmental Justice Analysis](results/enhanced_environmental_justice_analysis.png)
 
-### Enhanced Equity Analysis
-![Enhanced Equity Analysis](results/enhanced_equity_analysis.png)
 
-## Interactive Map
-[View Interactive Map](results/milan_green_space_enhanced_interactive_map.html)
+
+
 
 ## Data Files
 - `milan_parks_classified.gpkg` - Classified park data
