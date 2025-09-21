@@ -35,7 +35,50 @@ The analysis reveals that while **98.4%** of Milan's population lives within a 1
 - **Population Served within 10-min walk:** 98.4%
 - **Population Unserved:** 21,551 people lack access within a 10-minute walk
 - **Equity Findings:** No strong systemic bias found; weak correlation between income and accessibility (r = 0.023).
+# Milan Urban Green Space Accessibility Analysis - Results
 
+## Analysis Visualizations
+
+### Park Distribution Analysis
+![Park Distribution Analysis](results/park_distribution_analysis.png)
+
+### Accessibility Distribution Analysis  
+![Accessibility Distribution Analysis](results/accessibility_distribution_analysis.png)
+
+### Park Network Analysis
+![Park Network Analysis](results/park_network_analysis.png)
+
+### Service Area Overlap Analysis
+![Service Area Overlap Analysis](results/service_area_overlap_analysis.png)
+
+### Enhanced Service Coverage Analysis
+![Enhanced Service Coverage Analysis](results/enhanced_service_coverage_analysis.png)
+
+### Enhanced Environmental Justice Analysis
+![Enhanced Environmental Justice Analysis](results/enhanced_environmental_justice_analysis.png)
+
+### Enhanced Equity Analysis
+![Enhanced Equity Analysis](results/enhanced_equity_analysis.png)
+
+## Interactive Map
+[View Interactive Map](results/milan_green_space_enhanced_interactive_map.html)
+
+## Data Files
+- `milan_parks_classified.gpkg` - Classified park data
+- `milan_park_entrances.gpkg` - Park entrance locations
+- `milan_streets.gpkg` - Street network data
+- `milan_population_accessibility.gpkg` - Population accessibility data
+
+## Statistics Files
+- `summary_statistics.csv` - Basic summary statistics
+- `enhanced_summary_statistics.csv` - Enhanced summary statistics
+- `accessibility_distribution_statistics.csv` - Accessibility distribution stats
+- `park_type_statistics.csv` - Park type statistics
+
+## Reports
+- `analysis_report.md` - Basic analysis report
+- `enhanced_analysis_report.md` - Enhanced analysis report
+- `comprehensive_analysis_report.md` - Comprehensive analysis report
 ## 🗂️ Project Structure
 
 ```
